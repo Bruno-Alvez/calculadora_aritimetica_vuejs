@@ -1,29 +1,32 @@
-# calculadora_aritimetica_vuejs
+# 🧮 Arithmetic Calculator – Vue.js Practice
 
-This template should help get you started developing with Vue 3 in Vite.
+This project was developed as part of my Vue.js learning journey at EBAC – Escola Britânica de Artes Criativas e Tecnologia. The main goal was to reinforce concepts of reactive UI and event handling by building a simple and functional arithmetic calculator.
 
-## Recommended IDE Setup
+## 🛠️ Technologies Used
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Vue.js 2**
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
-## Customize configuration
+## ✨ Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Supports addition, subtraction, multiplication, and division
+- Real-time result updates using Vue’s reactivity
+- Clean and responsive layout
+- Input validation and basic error handling
 
-## Project Setup
+## 📚 Key Learnings
 
-```sh
-npm install
-```
+- Two-way data binding with `v-model`
+- Conditional rendering with `v-if`
+- Event handling and form logic in Vue
+- Component structure and single-file mindset
 
-### Compile and Hot-Reload for Development
+## 🚀 Project Context
 
-```sh
-npm run dev
-```
+This calculator was part of my Vue.js studies in EBAC’s Full-Stack program. It helped solidify my understanding of Vue’s core functionalities through a real-world logic scenario.
 
-### Compile and Minify for Production
+## 📁 Status
 
-```sh
-npm run build
-```
+✔️ Completed – Reinforces my Vue fundamentals and showcases component-driven thinking.
